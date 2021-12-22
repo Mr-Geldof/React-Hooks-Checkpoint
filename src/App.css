@@ -1,0 +1,20 @@
+.searchBar
+{
+  padding: 2rem 1rem;
+}
+.searchBar input
+{
+  font-size: 1rem;
+  width: 1000px;
+  margin-left: 200px;
+  border-radius: 50px; 
+}
+.Movie
+{
+  margin-left: 50px;
+}
+.Movie img
+{
+  width: 400px;
+  padding: 40px;
+}
